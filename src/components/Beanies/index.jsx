@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Gloves() {
+export default function Beanies() {
     return (
         <div>
-            Gloves:
+            Beanies:
         </div>
     )
 }
